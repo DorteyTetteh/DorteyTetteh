@@ -15,6 +15,79 @@ I'm a software engineer who’s passionate about making coding accessible, empow
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 33.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 167 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 41 Public Repositories 
+ > 
+> 🔑 12 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+🌆 Daytime                134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌃 Evening                432 commits         ███████████░░░░░░░░░░░░░░   42.99 % 
+🌙 Night                  393 commits         ██████████░░░░░░░░░░░░░░░   39.10 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Tuesday                  135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Wednesday                160 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Thursday                 146 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Friday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Saturday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Sunday                   197 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Accra
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     18 repos            ███████████░░░░░░░░░░░░░░   45.00 % 
+CSS                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/DorteyTetteh/DorteyTetteh/main/assets/bar_graph.png)
+
+
+ Last Updated on 27/06/2025 19:40:11 UTC
 <!--END_SECTION:waka-->
 
 
