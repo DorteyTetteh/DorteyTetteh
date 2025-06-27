@@ -14,3 +14,6 @@ I'm a software engineer who’s passionate about making coding accessible, empow
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
