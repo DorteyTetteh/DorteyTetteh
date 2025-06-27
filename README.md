@@ -82,10 +82,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/DorteyTetteh/DorteyTetteh/main/assets/bar_graph.png)
-
 
  Last Updated on 27/06/2025 19:40:11 UTC
 <!--END_SECTION:waka-->
