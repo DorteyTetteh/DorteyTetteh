@@ -1,4 +1,4 @@
-![Dortey Tetteh Banner](./assets/DORTEY.png)
+![Dortey Tetteh Banner](./assets/DORTEY TETTEH.jpg)
 
 
 I'm a software engineer who’s passionate about making coding accessible, empowering new developers through mentorship, and using technology to elevate communities.<br>I love simplifying complex tech like JavaScript and React, and helping others stay productive and consistent — especially through live coding sessions, Notion systems, and real-world project guidance.<br><br>Technologies I enjoy working with include React, WordPress, and Jamstack (JavaScript, APIs, Markup).<br>I’m the founder of Deloqistudios, and I also mentor aspiring developers through open-source and frontend projects.<br><br>My mission?<br>To build, teach, and inspire — one line of code at a time.
