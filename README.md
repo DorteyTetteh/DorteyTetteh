@@ -77,15 +77,6 @@ JavaScript               9 repos             ██████░░░░░�
 Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/DorteyTetteh/DorteyTetteh/main/assets/bar_graph.png)
-
-
- Last Updated on 28/06/2025 18:50:25 UTC
 <!--END_SECTION:waka-->
 
 
