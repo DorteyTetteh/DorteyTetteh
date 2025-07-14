@@ -56,20 +56,16 @@ Sunday                   206 commits         █████░░░░░░�
 🕑︎ Time Zone: Africa/Accra
 
 💬 Programming Languages: 
-Markdown                 8 mins              █████████████░░░░░░░░░░░░   53.42 % 
-CSS                      4 mins              ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Text                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-GitHubCloneProject       11 mins             ██████████████████░░░░░░░   72.41 % 
-Introduction-to-JavaScrip4 mins              ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -89,7 +85,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DorteyTetteh/DorteyTetteh/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2025 18:50:44 UTC
+ Last Updated on 14/07/2025 18:56:39 UTC
 <!--END_SECTION:waka-->
 
 
