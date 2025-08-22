@@ -23,8 +23,6 @@ I'm a software engineer who’s passionate about making coding accessible, empow
 
 > 📦 33.2 kB Used in GitHub's Storage 
  > 
-> 🏆 177 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 41 Public Repositories 
@@ -87,7 +85,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DorteyTetteh/DorteyTetteh/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2025 18:50:34 UTC
+ Last Updated on 22/08/2025 18:50:37 UTC
 <!--END_SECTION:waka-->
 
 
