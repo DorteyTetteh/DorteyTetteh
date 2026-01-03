@@ -29,45 +29,6 @@ I'm a software engineer who’s passionate about making coding accessible, empow
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-🌆 Daytime                134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-🌃 Evening                443 commits         ███████████░░░░░░░░░░░░░░   43.35 % 
-🌙 Night                  399 commits         ██████████░░░░░░░░░░░░░░░   39.04 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Tuesday                  134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Wednesday                160 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Thursday                 146 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Friday                   168 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Saturday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   206 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Accra
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -85,7 +46,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DorteyTetteh/DorteyTetteh/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 18:53:42 UTC
+ Last Updated on 03/01/2026 18:53:05 UTC
 <!--END_SECTION:waka-->
 
 
