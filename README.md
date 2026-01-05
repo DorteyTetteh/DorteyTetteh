@@ -15,9 +15,9 @@ I'm a software engineer who’s passionate about making coding accessible, empow
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -87,7 +87,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DorteyTetteh/DorteyTetteh/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:52:33 UTC
+ Last Updated on 05/01/2026 18:57:55 UTC
 <!--END_SECTION:waka-->
 
 
