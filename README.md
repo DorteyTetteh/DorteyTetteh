@@ -15,6 +15,8 @@ I'm a software engineer who’s passionate about making coding accessible, empow
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -29,6 +31,51 @@ I'm a software engineer who’s passionate about making coding accessible, empow
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+🌆 Daytime                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+🌃 Evening                444 commits         ███████████░░░░░░░░░░░░░░   42.94 % 
+🌙 Night                  405 commits         ██████████░░░░░░░░░░░░░░░   39.17 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Tuesday                  134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Wednesday                161 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Thursday                 156 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Friday                   169 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Saturday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Sunday                   206 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Accra
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -46,7 +93,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DorteyTetteh/DorteyTetteh/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:26:02 UTC
+ Last Updated on 07/08/2026 19:33:00 UTC
 <!--END_SECTION:waka-->
 
 
