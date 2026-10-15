@@ -34,21 +34,21 @@ I'm a software engineer who’s passionate about making coding accessible, empow
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-🌆 Daytime                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-🌃 Evening                443 commits         ███████████░░░░░░░░░░░░░░   42.93 % 
-🌙 Night                  404 commits         ██████████░░░░░░░░░░░░░░░   39.15 % 
+🌞 Morning                46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+🌆 Daytime                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+🌃 Evening                444 commits         ███████████░░░░░░░░░░░░░░   42.94 % 
+🌙 Night                  405 commits         ██████████░░░░░░░░░░░░░░░   39.17 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Tuesday                  134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Wednesday                161 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Thursday                 156 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Friday                   169 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Saturday                 137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Sunday                   205 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Monday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Tuesday                  134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Wednesday                161 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Thursday                 156 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Friday                   169 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Saturday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Sunday                   206 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
 ```
 
 
@@ -93,7 +93,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DorteyTetteh/DorteyTetteh/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:54:28 UTC
+ Last Updated on 15/10/2026 21:41:12 UTC
 <!--END_SECTION:waka-->
 
 
